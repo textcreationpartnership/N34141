@@ -109,7 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:044729_0001_101EF6B3E8768928" rendition="simple:additions"/>
+            <pb facs="unknown:044729_0001_101EF6B3E8768928"
+                rendition="simple:additions"/>
             <p>POEMS BY MISS <hi>HANNAH MORE.</hi> TO WIT, SENSIBILITY; AND REFLECTIONS OF KING HEZEKIAH.</p>
             <q>
                <l>To draw the rich materials from the mine,</l>
@@ -124,7 +125,7 @@
                <hi>PHILADELPHIA</hi>: Printed by YOUNG, STEWART, and M<hi rend="sup">c</hi>CULLOCH, in <hi>Cheſnut-Street,</hi> No. 7, below <hi>Third-Street.</hi> M. DCC. LXXXV.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:044729_0002_101EF6B6A648FAC8"/>
+            <pb facs="unknown:044729_0002_101EF6B6A648FAC8"/>
             <head>To the Public.</head>
             <p>THE high approbation our Poeteſs has received from the Monthly Reviewers, may with propriety be introduced whenever her works, or part of them, are re-publiſhed. A few of their obſervations are— <q>Of the Dramas we cannot expreſs our approbation more ſtrongly than by ob<g ref="char:EOLhyphen"/>ſerving, that they are admirably calculated for the end they are deſigned to anſwer—<hi>the inſtruction and amuſe<g ref="char:EOLhyphen"/>ment</hi> of youth; being equally adapted to inform the un<g ref="char:EOLhyphen"/>derſtanding, and to improve the heart.</q>
             </p>
@@ -138,7 +139,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:044729_0003_101EF6B8A11D2088"/>
+            <pb facs="unknown:044729_0003_101EF6B8A11D2088"/>
             <head>SENSIBILITY: A POETICAL EPISTLE TO THE HON. MRS. BOSCAWEN.</head>
             <epigraph>
                <q>
@@ -159,7 +160,7 @@
                <l>Theſe are no more!—But not with theſe decline</l>
                <l>The Attic chaſteneſs, and the flame divine.</l>
                <l>
-                  <pb n="6" facs="tcp:044729_0004_101EF6BD6CC614F8"/>Still, <hi>Sat</hi>
+                  <pb n="6" facs="unknown:044729_0004_101EF6BD6CC614F8"/>Still, <hi>Sat</hi>
                   <note n="*" place="bottom">Milton calls Euripides—<hi>Sad Electra's Poet.</hi>
                   </note>
                   <hi>Elfrida's Poet</hi> ſhall complain,</l>
@@ -197,7 +198,7 @@
                <l>And is not <hi>Johnſon</hi> theirs, himſelf an hoſt?</l>
             </lg>
             <lg>
-               <pb facs="tcp:044729_0005_101EF6BEF81934C0"/>
+               <pb facs="unknown:044729_0005_101EF6BEF81934C0"/>
                <l>Yes:—ſtill for you your gentle ſtars diſpenſe</l>
                <l>The charm of friendſhip, and the feaſt of ſenſe.</l>
                <l>Yours is the bliſs, and Heav'n no dearer ſends,</l>
@@ -238,7 +239,7 @@
                <l>Where glow exalted ſenſe, and taſte refin'd,</l>
                <l>There keener anguiſh rankles in the mind:</l>
                <l>
-                  <pb n="8" facs="tcp:044729_0006_101EF6C09905CEB8"/>There feeling is diffus'd thro' ev'ry part,</l>
+                  <pb n="8" facs="unknown:044729_0006_101EF6C09905CEB8"/>There feeling is diffus'd thro' ev'ry part,</l>
                <l>Thrills in each nerve, and lives in all the heart:</l>
                <l>And thoſe, whoſe gen'rous ſouls each tear wou'd keep</l>
                <l>From others eyes, are born themſelves to weep.</l>
@@ -278,7 +279,7 @@
                <l>So pleas'd, cou'd he detect a happy line,</l>
                <l>That he wou'd fancy merit ev'n in mine.</l>
                <l>
-                  <pb n="9" facs="tcp:044729_0007_101EF6C2AD199FB0"/>Oh gen'rous error, when by friendſhip bred!</l>
+                  <pb n="9" facs="unknown:044729_0007_101EF6C2AD199FB0"/>Oh gen'rous error, when by friendſhip bred!</l>
                <l>His praiſes flatter'd me, but not miſled.</l>
             </lg>
             <lg>
@@ -321,7 +322,7 @@
                      <desc>•</desc>
                   </gap>;</l>
                <l>
-                  <pb n="10" facs="tcp:044729_0008_101EF6C922D08D48"/>You, who from tender ſad experience feel</l>
+                  <pb n="10" facs="unknown:044729_0008_101EF6C922D08D48"/>You, who from tender ſad experience feel</l>
                <l>The wounds ſuch minds receive can never heal;</l>
                <l>That grief a thouſand entrances can find,</l>
                <l>Where parts ſuperior dignify the mind;</l>
@@ -358,7 +359,7 @@
                <l>Where, the beſt paſſions of the mortal breaſt?</l>
                <l>Where, the warm bleſſing when another's bleſt?</l>
                <l>
-                  <pb n="11" facs="tcp:044729_0009_101EF6CC0CCDE888"/>Where, the ſoft lenitives' of others pain,</l>
+                  <pb n="11" facs="unknown:044729_0009_101EF6CC0CCDE888"/>Where, the ſoft lenitives' of others pain,</l>
                <l>The ſocial ſympathy, the ſenſe humane,</l>
                <l>The ſigh of rapture, and the tear of joy,</l>
                <l>Anguiſh that charms, and tranſports that deſtroy?</l>
@@ -393,7 +394,7 @@
                <l>Who the chill haunts of Deſolation ſeek,</l>
                <l>Raiſe the ſunk heart, and fluſh the fading cheek!</l>
                <l>
-                  <pb n="12" facs="tcp:044729_0010_101EF6CEB8BA04B8"/>Ye, who with penſive Petrarch love to mourn,</l>
+                  <pb n="12" facs="unknown:044729_0010_101EF6CEB8BA04B8"/>Ye, who with penſive Petrarch love to mourn,</l>
                <l>Or weave freſh chaplets for Tibullus' urn.</l>
                <l>Who cheriſh both in Hammond's plaintive lay,</l>
                <l>The Provence myrtle, and the Roman bay!</l>
@@ -427,7 +428,7 @@
                <l>Yet from theſe fair poſſeſſions wou'd you part,</l>
                <l>To ſhield from future pain your guarded heart?</l>
                <l>
-                  <pb n="13" facs="tcp:044729_0011_101EF6D2A0FB9698"/>Wou'd your fond mind renounce its tender boaſt,</l>
+                  <pb n="13" facs="unknown:044729_0011_101EF6D2A0FB9698"/>Wou'd your fond mind renounce its tender boaſt,</l>
                <l>Or wiſh their op'ning bloom of promiſe loſt?</l>
                <l>Yield the dear hopes, which break upon your view,</l>
                <l>For all the quiet, Dulneſs ever knew?</l>
@@ -467,7 +468,7 @@
                <l>'Tis not to melt in tender <hi>Otway</hi>'s fires;</l>
                <l>'Tis not to faint when injur'd <hi>Shore</hi> expires:</l>
                <l>
-                  <pb n="14" facs="tcp:044729_0012_101EF6D556D13F60"/>'Tis not becauſe the ready eye o'erflows</l>
+                  <pb n="14" facs="unknown:044729_0012_101EF6D556D13F60"/>'Tis not becauſe the ready eye o'erflows</l>
                <l>At <hi>Clementina</hi>'s, or <hi>Clariſſa</hi>'s woes.</l>
             </lg>
             <lg>
@@ -507,7 +508,7 @@
                <l>Whoſe well-ſung ſorrows every breaſt inflame,</l>
                <l>And break all hearts but his from whom they came,</l>
                <l>
-                  <pb n="15" facs="tcp:044729_0013_101EF6D807A2C5E0"/>Yet ſcorning life's <hi>dull</hi> duties to attend,</l>
+                  <pb n="15" facs="unknown:044729_0013_101EF6D807A2C5E0"/>Yet ſcorning life's <hi>dull</hi> duties to attend,</l>
                <l>Will perſecute a wife, or wrong a friend;</l>
                <l>Alive to every woe by <hi>fiction</hi> dreſs'd;</l>
                <l>The innocent he wrong'd, the wretch diſtreſs'd,</l>
@@ -544,7 +545,7 @@
                <l>To bleſs Mankind with tides of flowing wealth,</l>
                <l>With pow'r to grace them, or to crown with health,</l>
                <l>
-                  <pb n="16" facs="tcp:044729_0014_101EF6D98C359088"/>Our little lot denies; but Heav'n decrees</l>
+                  <pb n="16" facs="unknown:044729_0014_101EF6D98C359088"/>Our little lot denies; but Heav'n decrees</l>
                <l>To all, the gift of miniſt'ring to eaſe.</l>
                <l>The gentle offices of patient love,</l>
                <l>Beyond all flatt'ry, and all price above;</l>
@@ -584,7 +585,7 @@
                <l>Put to divert it to its proper courſe,</l>
                <l>There Wiſdom's pow'r appears, there Reaſon's force;</l>
                <l>
-                  <pb n="17" facs="tcp:044729_0015_101EF6DDD1692740"/>If, ill-directed, it purſues the wrong,</l>
+                  <pb n="17" facs="unknown:044729_0015_101EF6DDD1692740"/>If, ill-directed, it purſues the wrong,</l>
                <l>It adds new ſtrength to what before was ſtrong;</l>
                <l>Breaks out in wild irregular deſires,</l>
                <l>Diſorder'd paſſions, and illicit fires.</l>
@@ -613,7 +614,7 @@
                <l>Makes <hi>Portland</hi>'s face its brighteſt rapture wear,</l>
                <l>When her large bounty ſmooths the bed of care.</l>
                <l>
-                  <pb n="18" facs="tcp:044729_0016_101EF6E089C0E320"/>'Tis <hi>this,</hi> that breathe's through <hi>Sevigne</hi>'s ſweet page,</l>
+                  <pb n="18" facs="unknown:044729_0016_101EF6E089C0E320"/>'Tis <hi>this,</hi> that breathe's through <hi>Sevigne</hi>'s ſweet page,</l>
                <l>That nameleſs grace which ſoothes a ſecond age.</l>
                <l>'Tis <hi>this</hi> whoſe charms the ſoul reſiſtleſs ſeize,</l>
                <l>And gives BOSCAWEN half her pow'r to pleaſe.</l>
@@ -630,7 +631,7 @@
             </lg>
          </div>
          <div type="poem">
-            <pb facs="tcp:044729_0017_101EF6E386B03FF0"/>
+            <pb facs="unknown:044729_0017_101EF6E386B03FF0"/>
             <head>REFLECTIONS OF KING HEZEKIAH IN HIS SICKNESS.</head>
             <epigraph>
                <q>Set thine houſe in order, for thou ſhalt die.</q>
@@ -656,7 +657,7 @@
                <l>What, not one friend! No, not an hireling ſlave,</l>
                <l>Shall hail <hi>Great</hi> HEZEKIAH in the grave!</l>
                <l>
-                  <pb n="20" facs="tcp:044729_0018_101EF6E66CC50B58"/>Where's he, who falſely claim'd the name of <hi>Great</hi>?</l>
+                  <pb n="20" facs="unknown:044729_0018_101EF6E66CC50B58"/>Where's he, who falſely claim'd the name of <hi>Great</hi>?</l>
                <l>Whoſe eye was terror, and whoſe frown was fate;</l>
                <l>Who aw'd an hundred nations from the throne?</l>
                <l>See where he lies, dumb, friendleſs, and alone!</l>
@@ -701,7 +702,7 @@
                <l>Still have theſe ready hands the afflicted fed,</l>
                <l>And miniſtred to Want her daily bread?</l>
                <l>
-                  <pb n="21" facs="tcp:044729_0019_101EF6E929369150"/>The cauſe I knew not, did I well explore?</l>
+                  <pb n="21" facs="unknown:044729_0019_101EF6E929369150"/>The cauſe I knew not, did I well explore?</l>
                <l>Friend, advocate, and parent of the poor?</l>
                <l>Did I, to gratify ſome ſudden guſt</l>
                <l>Of thoughtleſs appetite; ſome impious luſt</l>
@@ -738,7 +739,7 @@
                <l>How late in all the inſolence of health,</l>
                <l>I charm'd th' Aſſyrian by my boaſt of wealth!</l>
                <l>
-                  <pb n="22" facs="tcp:044729_0020_101EF6EAB948CF68"/>How fondly, with elab'rate pomp, diſplay'd</l>
+                  <pb n="22" facs="unknown:044729_0020_101EF6EAB948CF68"/>How fondly, with elab'rate pomp, diſplay'd</l>
                <l>My glitt'ring treaſures! with what triumph laid</l>
                <l>My gold and gems before his dazzled eyes,</l>
                <l>And found a rich reward in his ſurpriſe <note n="*" place="bottom">This is an anachroniſm. Hezekiah did not ſhew his treaſures to the Aſſyrian 'till after his recovery from his ſickneſs.</note>!</l>
@@ -770,7 +771,7 @@
                <l>Of all the vanities weak man admires,</l>
                <l>Which greatneſs gives, or ſanguine youth deſires,</l>
                <l>
-                  <pb n="23" facs="tcp:044729_0021_101EF6F0AC809400"/>Of theſe, my ſoul, which haſt thou not enjoy'd?</l>
+                  <pb n="23" facs="unknown:044729_0021_101EF6F0AC809400"/>Of theſe, my ſoul, which haſt thou not enjoy'd?</l>
                <l>With each, with all, thy fated pow'rs are cloy'd.</l>
                <l>What can I then expect from length of days?</l>
                <l>More wealth, more wiſdom, pleaſure, health, or praiſe?</l>
@@ -805,7 +806,7 @@
                <l>Has once revers'd th' immutable decree</l>
                <l>On Adam paſs'd, of man's mortality?</l>
                <l>
-                  <pb n="24" facs="tcp:044729_0022_101EF6F2306436D0"/>What—have theſe eyes ne'er ſeen the felon wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <pb n="24" facs="unknown:044729_0022_101EF6F2306436D0"/>What—have theſe eyes ne'er ſeen the felon wor<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
                   </gap>
                </l>
